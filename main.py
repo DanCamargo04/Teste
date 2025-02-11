@@ -1,4 +1,7 @@
-print("hello world")
+print("herld")
 
 if(1):
-	print("hehe boi")
+	print("olokinho meu")
+
+
+print(1)
